@@ -6,6 +6,6 @@ We will learn
 1. What is Dummy Variables and One Hot Encoding 
 2. Word to Vector (word2vec)
 
-# What is Dummy Variables and One Hot Encoding
+### What is Dummy Variables and One Hot Encoding
 To use categorical variables in a machine learning model, you first need to represent them in a quantitative way. The two most common approaches are to one-hot encode the variables using or to use dummy variables.
-[machinelearningmastery](https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/)
+[Article Link:](https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/)
