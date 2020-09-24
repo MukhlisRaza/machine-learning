@@ -9,3 +9,7 @@ We will learn
 ### What is Dummy Variables and One Hot Encoding
 To use categorical variables in a machine learning model, you first need to represent them in a quantitative way. The two most common approaches are to one-hot encode the variables using or to use dummy variables.
 [Article Link:](https://machinelearningmastery.com/one-hot-encoding-for-categorical-data/)
+
+### Word to Vector (word2vec)
+Machine learning models do not understand text. Text needs to be converted into a numerical form to be fed into your models. Word2Vec is a shallow, *two-layer neural networks* which is trained to reconstruct linguistic contexts of words. It takes as its input a large corpus of words and produces a vector space, typically of several hundred dimensions, with each unique word in the corpus being assigned a corresponding vector in the space. It comes in two flavors, the **Continuous Bag-of-Words (CBOW) model** and the **Skip-Gram model**
+[Article Link:](https://towardsdatascience.com/word2vec-from-scratch-with-numpy-8786ddd49e72)
